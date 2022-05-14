@@ -2,16 +2,6 @@
 Workshop - AndroidStudio(Java)
 </h1>
 
-# Summary
-- [Install](#0.)
-- [Install](#install)
-- [Discovery](#discovery)
-- [Install](#install)
-- [First Part : Python Basis](#first-part--python-basis)
-- [Second Part : Scraping Basis](#second-part--scraping-basis)
-- [Third Part : Advanced Scraping](#third-part--advanced-scraping)
-
-
 # 0. Install (Before the Workshop please !!!! *IONIS connection Approved*):
 
 - Android Studio https://developer.android.com/studio or https://developer.android.com/studio#downloads
